@@ -1,0 +1,1 @@
+print("Arcomba temetett kézzel leplezem, hogy szenvedek\n Ha kinyitom a szemem reggel, tudom, hogy több kell neked. \n Megértettem, elfogadtam, jól van ez így,\n Hiába nincs is annál szebb, ha együtt dobban a szív. ")
